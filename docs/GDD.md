@@ -1,4 +1,4 @@
-# GDD — [Nom du jeu]
+# GDD — Starlight Octalist
 
 ## Pitch
 [Protagoniste] doit [objectif] en [contexte], mais [obstacle]. Le jeu se distingue par [mécanique/ton unique].
@@ -77,3 +77,6 @@ Pixel art gratuit (Kenney, itch.io, OpenGameArt)
 
 ## Inspirations
 Cave Story, Undertale, Mario & Luigi series, Swordigo, Magic Rampage
+
+## Documents liés
+- [Bestiaire](Bestiaire.md)

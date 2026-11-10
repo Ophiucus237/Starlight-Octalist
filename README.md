@@ -26,7 +26,8 @@ projet_1/
 │   │   └── .gitkeep
 │   ├── GDD.md          ← Game Design Document
 │   ├── roadmap.md      ← plan de progression
-│   └── journal.md      ← log quotidien
+│   ├── journal.md      ← log quotidien
+│   └── Bestiaire.md    ← Encyclopédie interne des créatures, ennemis et boss
 │
 ├── scripts/
 │   ├── src/            ← fichiers .cpp
