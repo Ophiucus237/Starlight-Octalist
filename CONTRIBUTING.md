@@ -1,4 +1,4 @@
-# Contribuer à [Nom-du-RPG]
+# Contribuer à Starlight Octalist
 
 ## Convention de commits
 
