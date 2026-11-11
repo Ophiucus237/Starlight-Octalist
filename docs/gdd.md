@@ -6,7 +6,7 @@
 
 ## Pitch
 
-Un groupe de chevaliers et mercenaires d'Asvaald doit retrouver les huit réincarnations des Octalists des étoiles en partant en mission secrète contre une coalition envahissante, mais l'ennemi est trop puissant et les légendes ne sont peut-être qu'un espoir illusoire. Le jeu se distingue par son mélange d'Action-RPG et de quête mystique dans un monde en guerre, avec des ennemis liés aux arcanes sombres.
+Roheniem Torvall doit retrouver les huit réincarnations des Octalists des étoiles en partant en mission secrète contre une coalition envahissante, mais l'ennemi est trop puissant et les légendes ne sont peut-être qu'un espoir illusoire. Le jeu se distingue par son système de pouvoir original (l'Aupération) et son mélange d'Action-RPG et de quête mystique dans un monde en guerre.
 
 ## Genre
 
@@ -36,16 +36,19 @@ Localiser un Octalist → le convaincre/recruter → affronter un boss de la coa
 ## Mécaniques principales
 
 - Déplacement latéral (course, saut)
-- Combat temps réel (attaque, esquive)
+- Combat temps réel (attaque, esquive avec contre-attaque, soutien, contre-artefact)
 - Interaction (Espace/E)
 - Inventaire simple
 - Sauvegarde (1 slot) : Points de sauvegarde
+- **Aupération** (piste) : système de pouvoir à base de formules, charges et matières (4 runes)
 
 ## Mécanique signature
 
 > À définir avec l'équipe.
 
-> Piste personnelle à soumettre : « Analyse Magique » (inspection des ennemis/éléments).
+> Piste issue de la réunion du 10/11/26 : « Aupération » (formule + charge + matière = opération ; 4 runes : Déplacer, Transformer, Relier, Produire ; 3 classes : Aupérateur, Paladin, Chevalier).
+
+> Détail à écrire : mécanique testable (action, coût, effet, limite) avant intégration au GDD.
 
 ## Contrôles et interface
 
@@ -80,11 +83,8 @@ Localiser un Octalist → le convaincre/recruter → affronter un boss de la coa
 - UI : [menu texte minimal]
 
 ## Ce que nous NE faisons PAS (anti-scope-creep)
-- Pas de monde ouvert
-- Pas de crafting
-- Pas de classes multiples
-- Pas de musique originale (assets libres)
-- Pas de multijoueur
+
+> À remplir
 
 ## Assets
 
@@ -93,7 +93,18 @@ Localiser un Octalist → le convaincre/recruter → affronter un boss de la coa
 - **Audio** : [à définir — banques libres de droits].
 
 ## Inspirations
-Celeste, Monster Hunter, Pokémon, [The Legend of Zelda: The Minish Cap](https://www.nintendo.com/fr-fr/Jeux/Game-Boy-Advance/The-Legend-of-Zelda-The-Minish-Cap-267486.html), [Final Fantasy 4](https://store.steampowered.com/app/1173800/FINAL_FANTASY_IV), [Final Fantasy 5](https://store.steampowered.com/app/1173810/FINAL_FANTASY_V/)
+
+### Graphismes
+[The Legend of Zelda: The Minish Cap](https://www.nintendo.com/fr-fr/Jeux/Game-Boy-Advance/The-Legend-of-Zelda-The-Minish-Cap-267486.html), [Final Fantasy IV](https://store.steampowered.com/app/1173800/FINAL_FANTASY_IV), [Final Fantasy V](https://store.steampowered.com/app/1173810/FINAL_FANTASY_V/) (taille, animations)
+
+### Pouvoirs
+Fullmetal Alchemist: Brotherhood (FMAB), Witch Hunter Aria? (WHA — à préciser)
+
+### Univers
+Mushoku Tensei, monde IRL (paysages) ; Black Clover (classes sociales, moins poussé) ; [Monster Hunter](https://www.monsterhunter.com/), [Pokémon](https://store.nintendo.com/fr-be/games/view-all-games/shop-by-franchise/pokemon-games), mythologies grecques et allemandes (bestiaire)
+
+### Gameplay
+[Celeste](https://exok.com/games/celeste/) (contrôles précis), [Monster Hunter](https://www.monsterhunter.com/) (combat)
 
 ## État d'avancement
 
