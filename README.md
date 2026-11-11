@@ -22,7 +22,7 @@ projet_1/
 │
 ├── docs/
 │   ├── reunion
-│   │   └── .gitkeep
+│   │   └── 2026-11-10.md
 │   ├── gdd.md          ← Game Design Document
 │   ├── roadmap.md      ← plan de progression
 │   ├── journal.md      ← log quotidien
