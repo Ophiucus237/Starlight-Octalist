@@ -8,7 +8,7 @@ Jeu vidéo plateforme 2D codé en C++ -->
 🚧 En développement — Jour 11 (phase initiale)
 
 ## Pitch
-[Protagoniste] doit [objectif] en [contexte], mais [obstacle]. Le jeu se distingue par [mécanique/ton unique].
+Un groupe de chevaliers et mercenaires d'Asvaald doit retrouver les huit réincarnations des Octalists des étoiles en partant en mission secrète contre une coalition envahissante, mais l'ennemi est trop puissant et les légendes ne sont peut-être qu'un espoir illusoire. Le jeu se distingue par son mélange d'Action-RPG et de quête mystique dans un monde en guerre, avec des ennemis liés aux arcanes sombres.
 
 ## Stack
 - **Git + GitHub** (conventional commits)
@@ -27,7 +27,14 @@ projet_1/
 │   ├── GDD.md          ← Game Design Document
 │   ├── roadmap.md      ← plan de progression
 │   ├── journal.md      ← log quotidien
-│   └── Bestiaire.md    ← Encyclopédie interne des créatures, ennemis et boss
+│   ├── Bestiaire.md    ← Encyclopédie interne des créatures, ennemis et boss
+│   ├── lore.md         ← Lore
+│   └── sources/
+│       ├── README.md
+│       ├── synopsis-du-jeu.md
+│       ├── le-garcon-au-bandeau.md
+│       ├── le-loup-des-champs.md
+│       └── viktor-orstem.md
 │
 ├── scripts/
 │   ├── src/            ← fichiers .cpp
