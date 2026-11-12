@@ -1,4 +1,4 @@
-# Roadmap — mon-rpg
+# Roadmap — Starlight Octalist
 
 ## Vue d'ensemble
 Objectif : RPG tour par tour, ~1h de jeu, top-down 2D.

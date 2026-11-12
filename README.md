@@ -1,6 +1,4 @@
-<!-- # projet_1
-Jeu vidéo plateforme 2D codé en C++ -->
-# projet_1
+# Starlight Octalist
 
 > Action-RPG, side-scroller, ~5h de jeu, en développement.
 
@@ -8,12 +6,13 @@ Jeu vidéo plateforme 2D codé en C++ -->
 🚧 En développement — Jour 11 (phase initiale)
 
 ## Pitch
-[Protagoniste] doit [objectif] en [contexte], mais [obstacle]. Le jeu se distingue par [mécanique/ton unique].
+
+Voir [Pitch](docs/gdd.md#pitch) dans le GDD.
 
 ## Stack
 - **Git + GitHub** (conventional commits)
-- **VS Code** <!-- pour les fichiers non-GDScript (Markdown, JSON) -->
-- **SFML** <!-- pour le GDScript et les scènes -->
+- **VS Code**
+- **SFML** pour le rendu et les entrées
 
 ## Structure du repo
 ```text
@@ -23,10 +22,20 @@ projet_1/
 │
 ├── docs/
 │   ├── reunion
-│   │   └── .gitkeep
-│   ├── GDD.md          ← Game Design Document
+│   │   └── 2026-11-10.md
+│   ├── gdd.md          ← Game Design Document
 │   ├── roadmap.md      ← plan de progression
-│   └── journal.md      ← log quotidien
+│   ├── journal.md      ← log quotidien
+│   ├── bestiaire.md    ← Encyclopédie interne des créatures, ennemis et boss
+│   ├── lore.md         ← Lore
+│   ├── mvp-doc.md      ← Le doc de MVP
+│   ├── vsdd.md         ← Le Vertical Slice Design Doc
+│   └── sources/
+│       ├── README.md
+│       ├── synopsis-du-jeu.md
+│       ├── le-garcon-au-bandeau.md
+│       ├── le-loup-des-champs.md
+│       └── viktor-orstem.md
 │
 ├── scripts/
 │   ├── src/            ← fichiers .cpp
@@ -65,4 +74,7 @@ Voir [docs/journal.md](docs/journal.md)
 Voir [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Licence
+
+> À définir avec l'équipe.
+
 [MIT/GPL v3/CC BY-NC-SA/autre] — voir [LICENSE](LICENSE)

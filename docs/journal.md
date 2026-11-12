@@ -1,4 +1,4 @@
-# Journal de développement — mon-rpg
+# Journal de développement — Starlight Octalist
 
 ## 2026-09-20 — Jour 0
 - Création du repo, GDD, conventions
